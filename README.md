@@ -12,6 +12,8 @@ This system exposes a REST API that accepts notification requests, delivers emai
 
 ## Architecture
 
+![Architecture Diagram](images/IMG_0674.jpg)
+
 ```
 Browser (S3)
     |
